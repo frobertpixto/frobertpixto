@@ -13,3 +13,5 @@ Specialties:
 - Mission critical systems where performance and high availability are essential.  
 
 Currently focusing on Machine Learning, Deep Learning and Cloud DevOps.  
+
+I live in Montreal, Canada.
