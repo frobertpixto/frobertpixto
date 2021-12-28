@@ -10,6 +10,7 @@ I have numerous years of experience in Software Development and as Tech Lead.
 Specialties: 
 - Strong skills in Java, Swift/Objective C, Python, C#/.NET and C++. 
 - System architecture. 
+- Machine Learning and Deep Learning.
 - Mission critical systems where performance and high availability are essential.  
 
 Currently focusing on Machine Learning, Deep Learning and Cloud DevOps.  
