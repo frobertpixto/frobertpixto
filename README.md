@@ -8,7 +8,7 @@ Also software developer at Oracle.
 I have numerous years of experience in Software Development and as Tech Lead.  
 
 Specialties: 
-- Strong skills in Java, Swift/Objective C, Python, C#/.NET and C++. 
+- Strong skills in Java, Python, Swift/Objective C, and C#/.NET. 
 - System architecture. 
 - Machine Learning and Deep Learning.
 - Mission critical systems where performance and high availability are essential.  
