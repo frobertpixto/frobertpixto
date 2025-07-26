@@ -13,6 +13,6 @@ Specialties:
 - Machine Learning and Deep Learning.
 - Mission critical systems where performance and high availability are essential.  
 
-Currently focusing on Deep Learning, Reinforcement Learning and Cloud DevOps.  
+Currently focusing on Deep Learning, Deep Reinforcement Learning and Cloud DevOps.  
 
 I live in Montreal, Canada.
